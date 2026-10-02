@@ -54,8 +54,8 @@ mengerjakan praktikumnya.
 ### 3. Clone dengan git
 
 ```bash
-git clone https://github.com/<pengguna>/data-warehouse-si.git
-cd data-warehouse-si
+git clone https://github.com/fafa1230/data-warehouse-prodi-si.git
+cd data-warehouse-prodi-si
 ```
 
 ## Spesifikasi minimum laptop

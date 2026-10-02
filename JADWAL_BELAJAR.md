@@ -12,7 +12,7 @@ butuh dua menit.
 
 | Minggu | Topik | Bahan | Target |
 | --- | --- | --- | --- |
-| 1 | Persiapan | `modul-pdf/01` dan `02` | `python cek_pemasangan.py` lolos semua |
+| 1 | Persiapan | `modul-pdf/01` dan `02`, [tutorial minggu 1](tutorial/MINGGU_1_PERSIAPAN.md) | `python cek_pemasangan.py` lolos semua |
 | 2 | Sesi 1, bagian awal | `modul-pdf/03`, Langkah 1–3 | `stg_penjualan_kasir` = 389, `stg_penjualan_barat` = 188 |
 | 3 | Sesi 1, bagian akhir | `modul-pdf/03`, Langkah 4–5 | `penjualan_bersih` = 560 (389 kasir + 171 Excel), omzet = 20.784.000 |
 | 4 | Sesi 2, skema bintang | `modul-pdf/04` | `dim_tanggal` = 365, `fact_penjualan` = 560 |
