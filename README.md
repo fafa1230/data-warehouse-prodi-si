@@ -13,6 +13,8 @@ Seluruh kode di repo ini sudah diuji jalan dari nol sampai selesai.
 | 3 | ETL dengan Python | Python | 8, 9 |
 | 4 | Query OLAP dan Data Mart | SQL | 7, 13 |
 
+**Jadwal belajar mandiri 8 minggu ada di [JADWAL_BELAJAR.md](JADWAL_BELAJAR.md).**
+
 **Modul lengkapnya ada di [MODUL.md](MODUL.md)** — penjelasan tiap sesi, kode
 yang dibahas baris per baris, titik periksa, dan kaitannya ke skripsi. Versi
 cetaknya ada di folder [`modul-pdf/`](modul-pdf) dalam delapan berkas A4.
