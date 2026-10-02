@@ -1,0 +1,21 @@
+# hasil praktikum, dibuat ulang tiap kali dijalankan
+keluaran/*
+!keluaran/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# sandi dan konfigurasi pribadi
+.env
+*.cnf
+konfigurasi_lokal.py
+
+# editor dan sistem operasi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

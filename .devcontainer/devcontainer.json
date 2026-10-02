@@ -1,0 +1,22 @@
+{
+  "name": "Praktikum Data Warehouse",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "remoteEnv": {
+    "DW_USER": "root",
+    "DW_PASS": "praktikum",
+    "DW_HOST": "db",
+    "DW_PORT": "3306"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-mysql"
+      ]
+    }
+  }
+}
