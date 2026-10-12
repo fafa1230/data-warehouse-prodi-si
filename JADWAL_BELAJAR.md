@@ -21,6 +21,8 @@ butuh dua menit.
 | 7 | Sesi 4, query OLAP | `modul-pdf/06`, [tutorial](tutorial/MINGGU_7_SESI4_OLAP.md) | Omzet Jan/Feb/Mar = 7.581.000 / 6.094.000 / 7.109.000, total `WITH ROLLUP` = 20.784.000 |
 | 8 | Penutup | `modul-pdf/07` dan `08`, [tutorial](tutorial/MINGGU_8_PENUTUP_SKRIPSI.md) | Jawab pertanyaan pemahaman, rancang kaitan ke skripsimu |
 
+Tutorial langkah demi langkah tiap minggu tersedia dalam bentuk Markdown di folder [`tutorial/`](tutorial) dan PDF A4 di folder [`tutorial-pdf/`](tutorial-pdf).
+
 ## Cara mengerjakan tiap minggu
 
 1. Baca bahan minggu itu dulu, jangan langsung menjalankan kode.
